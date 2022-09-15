@@ -1,0 +1,1043 @@
+/.atom/* @kevinsawicki @nathansobo @probablycorey
+/.coffeelintignore @mnquintana @nathansobo
+/.eslintignore @maxbrunsfeld @nathansobo @rafeca
+/.eslintrc.json @as-cii @nathansobo @rafeca
+/.gitattributes @aminya @damieng @sadick254
+/.github @kevinsawicki @probablycorey
+/.github/lock.yml @Arcanemagus @lee-dohm
+/.github/no-response.yml @Arcanemagus @daviwil @jasonrudolph @lee-dohm
+/.github/stale.yml @Ben3eeE @lee-dohm
+/.gitignore @aminya
+/.gitmodules @kevinsawicki @nathansobo @zcbenz
+/.pairs @gjtorikian @kevinsawicki @nathansobo
+/.prettierrc @nathansobo @rafeca
+/.vscode/ @rafeca
+/aa @zcbenz
+/apm/package-lock.json @icecream17
+/apm/package.json @aminya
+/atom.gyp @kevinsawicki @nathansobo @zcbenz
+/atom.sh @passeride
+/benchmarks/ @maxbrunsfeld @rafeca
+/benchmarks/benchmark-runner.js @as-cii @damieng @nathansobo
+/benchmarks/text-editor-large-file-construction.bench.js @as-cii @thomasjo
+/benchmarks/text-editor-long-lines.bench.js @thomasjo
+/CHANGELOG.md @benogle @joshaber @mnquintana @probablycorey
+/CODE_OF_CONDUCT.md @damieng @dhairya2019 @him2him2 @lee-dohm
+/coffeelint.json @dmnd @mnquintana
+/CONTRIBUTING.md @icecream17
+/Dockerfile @as-cii @BinaryMuse @cryobry @jessfraz @kevinsawicki @nathansobo
+/docs/advanced/configuration.md @benogle
+/docs/advanced/keymaps.md @50Wliu @benogle @lee-dohm @nathansobo
+/docs/advanced/node-modules.md @lee-dohm
+/docs/advanced/scopes-and-scope-descriptors.md @benogle
+/docs/advanced/view-system.md @nathansobo
+/docs/apm-rest-api.md @damieng @him2him2 @lee-dohm @thedaniel
+/docs/build-instructions/build-status.md @icecream17
+/docs/build-instructions/linux.md @50Wliu @aaronhalford @ammarnajjar @aranajhonny @as-cii @avdv @Bengt @BinaryMuse @coliff @didrocks @envygeeks @Frozenfire92 @ivernus @izuzak @joliv @kevinsawicki @krnowak @lee-dohm @nathansobo @philwyett-hemi @probablycorey @ryanpcmcquen @Theswweet @U8NWXD @wernight @xfq @zcbenz
+/docs/build-instructions/macos.md @coliff @izuzak @jsomers @kevinsawicki @leo @MatthiasWinkelmann @mnquintana @nathansobo @probablycorey @ryanpcmcquen
+/docs/build-instructions/macOS.md @50Wliu @as-cii @BinaryMuse @krnowak @lee-dohm @U8NWXD
+/docs/build-instructions/windows.md @50Wliu @anaisbetts @as-cii @batjko @BinaryMuse @BrainCrumbz @colelawrence @coliff @damieng @grenade @izuzak @kevinsawicki @krnowak @lee-dohm @mnquintana @nathansobo @probablycorey @ryanpcmcquen @U8NWXD @xfq @zelon
+/docs/contributing-to-packages.md @Ben3eeE @U8NWXD
+/docs/converting-a-text-mate-bundle.md @mnquintana @pborreli @xfq
+/docs/converting-a-text-mate-theme.md @mnquintana @pborreli @xfq
+/docs/creating-a-package.md @benogle @erikhakansson @izuzak @kant @lee-dohm @maxbrunsfeld @mcolyer @mnquintana @nathansobo @xfq @zcbenz
+/docs/creating-a-theme.md @benogle @mcolyer @mnquintana @nathansobo @xfq
+/docs/customizing-atom.md @gjtorikian @mcolyer @mnquintana @nathansobo @pborreli
+/docs/debugging.md @lee-dohm
+/docs/getting-started.md @avrahamruderman @gjtorikian @kevinsawicki @mcolyer @probablycorey
+/docs/index.md @benogle @izuzak @lee-dohm @mcolyer
+/docs/internals/ @kevinsawicki
+/docs/internals/keymaps.md @mcolyer
+/docs/internals/view-system.md @mcolyer
+/docs/native-profiling.md @leo @mrnonz
+/docs/proposals/ @mcolyer
+/docs/publishing-a-package.md @mattbelland @pborreli @xfq
+/docs/README.md @Arcanemagus @Ben3eeE @lee-dohm @leo @proggga
+/docs/rfcs/000-template.md @daviwil @jasonrudolph @maxbrunsfeld @smashwilson
+/docs/rfcs/001-updatable-bundled-packages.md @50Wliu @annthurium @daviwil @NotMoni @smashwilson
+/docs/rfcs/002-atom-nightly-releases.md @daviwil @jasonrudolph @maxbrunsfeld @smashwilson
+/docs/rfcs/003-consolidate-core-packages.md @daviwil @lee-dohm @maxbrunsfeld @smashwilson
+/docs/rfcs/004-decoration-ordering.md @daviwil @kuychaco @smashwilson
+/docs/rfcs/005-grammar-comment-delims.md @Aerijo
+/docs/rfcs/005-pretranspile.md @smashwilson @kayleneciman
+/docs/rfcs/005-scope-naming.md @savetheclocktower
+/docs/upgrading/upgrading-your-package.md @izuzak @outsideris
+/docs/upgrading/upgrading-your-syntax-theme.md @simurai
+/docs/upgrading/upgrading-your-ui-theme.md @brixen @nathansobo
+/docs/your-first-package.md @benogle @lee-dohm @nathansobo @xfq
+/dot-atom/.gitignore @50Wliu @Arcanemagus @IanLee1521
+/dot-atom/config.cson @kevinsawicki
+/dot-atom/init.coffee @nathansobo
+/dot-atom/keymap.cson @izuzak @Kreozot @lee-dohm @leo @nathansobo @rldaggie
+/dot-atom/packages/ @kevinsawicki
+/dot-atom/snippets.cson @rldaggie
+/dot-atom/snippets/ @kevinsawicki
+/dot-atom/styles.less @as-cii @nathansobo @simurai
+/dot-atom/themes/ @kevinsawicki
+/dot-atom/user.coffee @kevinsawicki
+/dot-atom/user.css @kevinsawicki
+/exports/ @rafeca @thomasjo
+/exports/atom.js @as-cii @mnquintana @smashwilson
+/Gruntfile.coffee @benogle @kevinsawicki @mcolyer @probablycorey @zcbenz
+/keymaps/apple.cson @kevinsawicki
+/keymaps/atom.cson @kevinsawicki @probablycorey @zcbenz
+/keymaps/base.cson @kevinsawicki @maxbrunsfeld @nathansobo
+/keymaps/darwin.cson @Alex3937 @benogle @damieng @davidrsfalcao @dsandstrom @kevinsawicki @maxbrunsfeld @mnquintana @nathansobo
+/keymaps/editor.cson @kevinsawicki @nathansobo @probablycorey
+/keymaps/git.cson @kevinsawicki
+/keymaps/linux.cson @as-cii @mrknutsen
+/keymaps/select-list.cson @kevinsawicki
+/keymaps/win32.cson @as-cii @mrknutsen
+/LICENSE.md @realpixelcode
+/menus/base.cson @mcolyer
+/menus/darwin.cson @jesuscb99
+/menus/linux.cson @jesuscb99
+/menus/win32.cson @jesuscb99
+/native/mac/ @kevinsawicki
+/package-lock.json @HarlemSquirrel @icecream17
+/package.json @HarlemSquirrel @icecream17
+/packages/* @daviwil @jasonrudolph @maxbrunsfeld @ryanolsonx @simurai
+/packages/about/.gitignore @daviwil
+/packages/about/lib/ @daviwil @jasonrudolph @rafeca
+/packages/about/lib/components/about-view.js @bullibasti @Daniel199604 @sadick254
+/packages/about/LICENSE.md @daviwil
+/packages/about/package-lock.json @dependabot
+/packages/about/package.json @daviwil @jasonrudolph
+/packages/about/README.md @daviwil
+/packages/about/spec/about-spec.js @sadick254
+/packages/about/spec/about-status-bar-spec.js @sadick254
+/packages/about/spec/helpers/ @Arcanemagus @daviwil @jasonrudolph @rafeca
+/packages/about/spec/mocks/ @daviwil @jasonrudolph @rafeca
+/packages/about/spec/update-manager-spec.js @daviwil @jasonrudolph @rafeca
+/packages/about/spec/update-view-spec.js @Arcanemagus @daviwil @jasonrudolph @rafeca
+/packages/about/styles/ @daviwil
+/packages/atom-dark-syntax/* @daviwil @jasonrudolph
+/packages/atom-dark-syntax/index.less @chbk @sadick254
+/packages/atom-dark-syntax/styles/* @daviwil @jasonrudolph
+/packages/atom-dark-syntax/styles/syntax-legacy/ @chbk @daviwil @jasonrudolph @sadick254
+/packages/atom-dark-syntax/styles/syntax/ @chbk @sadick254
+/packages/atom-dark-ui/ @daviwil @jasonrudolph
+/packages/atom-light-syntax/* @daviwil @jasonrudolph
+/packages/atom-light-syntax/index.less @chbk @sadick254
+/packages/atom-light-syntax/styles/* @daviwil @jasonrudolph
+/packages/atom-light-syntax/styles/syntax-legacy/ @chbk @daviwil @jasonrudolph @sadick254
+/packages/atom-light-syntax/styles/syntax/ @chbk @sadick254
+/packages/atom-light-ui/ @daviwil @jasonrudolph
+/packages/autoflow/ @daviwil @jasonrudolph
+/packages/autoflow/lib/ @50Wliu @isundaylee @nathansobo
+/packages/autoflow/package.json @rafeca
+/packages/autoflow/spec/ @50Wliu @isundaylee @nathansobo
+/packages/base16-tomorrow-dark-theme/* @daviwil @jasonrudolph
+/packages/base16-tomorrow-dark-theme/index.less @chbk @sadick254
+/packages/base16-tomorrow-dark-theme/README.md @Arcanemagus @tvedeane
+/packages/base16-tomorrow-dark-theme/styles/* @daviwil @jasonrudolph
+/packages/base16-tomorrow-dark-theme/styles/syntax-legacy/ @chbk @daviwil @jasonrudolph @sadick254
+/packages/base16-tomorrow-dark-theme/styles/syntax/ @chbk @sadick254
+/packages/base16-tomorrow-light-theme/* @daviwil @jasonrudolph
+/packages/base16-tomorrow-light-theme/index.less @chbk @sadick254
+/packages/base16-tomorrow-light-theme/styles/* @daviwil @jasonrudolph
+/packages/base16-tomorrow-light-theme/styles/syntax-legacy/ @chbk @daviwil @jasonrudolph @sadick254
+/packages/base16-tomorrow-light-theme/styles/syntax/ @chbk @sadick254
+/packages/dalek/.gitignore @daviwil @jasonrudolph
+/packages/dalek/lib/ @daviwil @jasonrudolph @rafeca
+/packages/dalek/LICENSE.md @daviwil @jasonrudolph
+/packages/dalek/package-lock.json @dependabot
+/packages/dalek/package.json @daviwil @jasonrudolph
+/packages/dalek/README.md @sadick254
+/packages/dalek/test/ @daviwil @jasonrudolph @rafeca
+/packages/dalek/test/dalek.test.js @atom-build
+/packages/deprecation-cop/.coffeelintignore @daviwil @jasonrudolph
+/packages/deprecation-cop/.gitignore @daviwil @jasonrudolph
+/packages/deprecation-cop/coffeelint.json @daviwil @jasonrudolph
+/packages/deprecation-cop/lib/deprecation-cop-status-bar-view.coffee @daviwil @jasonrudolph
+/packages/deprecation-cop/lib/deprecation-cop-view.js @icecream17
+/packages/deprecation-cop/lib/main.js @daviwil @jasonrudolph @rafeca
+/packages/deprecation-cop/LICENSE.md @daviwil @jasonrudolph
+/packages/deprecation-cop/package.json @icecream17
+/packages/deprecation-cop/README.md @daviwil @jasonrudolph
+/packages/deprecation-cop/spec/ @daviwil @jasonrudolph
+/packages/deprecation-cop/styles/ @daviwil @jasonrudolph @RyanPisuena @simurai
+/packages/dev-live-reload/ @daviwil @jasonrudolph
+/packages/dev-live-reload/lib/ @rafeca
+/packages/dev-live-reload/spec/* @Arcanemagus @rafeca
+/packages/exception-reporting/ @daviwil @jasonrudolph
+/packages/exception-reporting/lib/ @rafeca
+/packages/exception-reporting/package.json @rafeca
+/packages/exception-reporting/spec/ @darangi @rafeca @trongham
+/packages/git-diff/keymaps/ @maxbrunsfeld
+/packages/git-diff/lib/diff-list-view.js @M3TIOR
+/packages/git-diff/lib/git-diff-view.js @ToxicPie @icecream17
+/packages/git-diff/lib/helpers.js @M3TIOR
+/packages/git-diff/lib/main.js @M3TIOR
+/packages/git-diff/LICENSE.md @maxbrunsfeld
+/packages/git-diff/menus/ @maxbrunsfeld
+/packages/git-diff/package.json @M3TIOR
+/packages/git-diff/README.md @maxbrunsfeld
+/packages/git-diff/spec/* @M3TIOR
+/packages/git-diff/spec/fixtures/working-dir/* @maxbrunsfeld
+/packages/git-diff/spec/fixtures/working-dir/git.git/* @maxbrunsfeld
+/packages/git-diff/spec/fixtures/working-dir/git.git/index @jasonrudolph @rafeca
+/packages/git-diff/spec/fixtures/working-dir/git.git/objects/ @rafeca
+/packages/git-diff/spec/fixtures/working-dir/git.git/objects/3e/ @maxbrunsfeld
+/packages/git-diff/spec/fixtures/working-dir/git.git/objects/90/ @maxbrunsfeld
+/packages/git-diff/spec/fixtures/working-dir/git.git/objects/f1/ @maxbrunsfeld
+/packages/git-diff/spec/fixtures/working-dir/git.git/objects/fb/ @maxbrunsfeld
+/packages/git-diff/spec/fixtures/working-dir/git.git/refs/ @maxbrunsfeld @rafeca
+/packages/git-diff/spec/fixtures/working-dir/sample.js @jasonrudolph @rafeca
+/packages/git-diff/styles/ @maxbrunsfeld @simurai
+/packages/go-to-line/* @daviwil @jasonrudolph
+/packages/go-to-line/keymaps/ @daviwil @jasonrudolph
+/packages/go-to-line/lib/ @daviwil @jasonrudolph @rafeca
+/packages/go-to-line/menus/ @daviwil @jasonrudolph
+/packages/go-to-line/spec/* @sadick254
+/packages/go-to-line/spec/fixtures/ @daviwil @jasonrudolph @rafeca
+/packages/grammar-selector/ @daviwil @maxbrunsfeld
+/packages/grammar-selector/lib/ @jasonrudolph @rafeca
+/packages/grammar-selector/lib/grammar-list-view.js @Aerijo
+/packages/grammar-selector/package.json @Aerijo
+/packages/grammar-selector/spec/* @Aerijo @Arcanemagus @jasonrudolph @rafeca
+/packages/grammar-selector/styles/ @Aerijo
+/packages/incompatible-packages/ @daviwil @jasonrudolph
+/packages/incompatible-packages/lib/ @rafeca
+/packages/incompatible-packages/spec/* @rafeca
+/packages/incompatible-packages/styles/ @aminya @gasanq @idleberg @sadick254 @StackNeverFlow
+/packages/language-rust-bundled/ @maxbrunsfeld
+/packages/language-rust-bundled/grammars/ @slightknack
+/packages/language-rust-bundled/package.json @Daniel199604 @darangi @DeeDeeG @sadick254 @trongham
+/packages/line-ending-selector/* @daviwil @jasonrudolph
+/packages/line-ending-selector/lib/helpers.js @daviwil @jasonrudolph @rafeca
+/packages/line-ending-selector/lib/main.js @aminya @daviwil @jasonrudolph @rafeca @sadick254 @StackNeverFlow
+/packages/line-ending-selector/lib/selector.js @aminya @sadick254 @StackNeverFlow
+/packages/line-ending-selector/lib/status-bar-item.js @daviwil @jasonrudolph @rafeca
+/packages/line-ending-selector/package.json @rafeca
+/packages/line-ending-selector/spec/ @daviwil @jasonrudolph
+/packages/line-ending-selector/spec/* @rafeca
+/packages/link/ @daviwil @jasonrudolph
+/packages/link/lib/ @rafeca
+/packages/link/package.json @rafeca
+/packages/link/spec/ @Arcanemagus @rafeca
+/packages/one-dark-syntax/* @daviwil @maxbrunsfeld
+/packages/one-dark-syntax/index.less @Ben3eeE @chbk @sadick254 @simurai
+/packages/one-dark-syntax/package.json @jasonrudolph
+/packages/one-dark-syntax/styles/* @daviwil @maxbrunsfeld
+/packages/one-dark-syntax/styles/syntax-legacy/ @chbk @sadick254
+/packages/one-dark-syntax/styles/syntax-legacy/_base.less @as-cii @dan1wang @daviwil @maxbrunsfeld @rsese
+/packages/one-dark-syntax/styles/syntax-legacy/c.less @daviwil @maxbrunsfeld
+/packages/one-dark-syntax/styles/syntax-legacy/cpp.less @daviwil @maxbrunsfeld
+/packages/one-dark-syntax/styles/syntax-legacy/cs.less @daviwil @maxbrunsfeld
+/packages/one-dark-syntax/styles/syntax-legacy/elixir.less @daviwil @maxbrunsfeld
+/packages/one-dark-syntax/styles/syntax-legacy/gfm.less @daviwil @maxbrunsfeld
+/packages/one-dark-syntax/styles/syntax-legacy/go.less @daviwil @maxbrunsfeld
+/packages/one-dark-syntax/styles/syntax-legacy/ini.less @daviwil @maxbrunsfeld
+/packages/one-dark-syntax/styles/syntax-legacy/java.less @daviwil @maxbrunsfeld
+/packages/one-dark-syntax/styles/syntax-legacy/javascript.less @daviwil @maxbrunsfeld
+/packages/one-dark-syntax/styles/syntax-legacy/json.less @daviwil @maxbrunsfeld
+/packages/one-dark-syntax/styles/syntax-legacy/ng.less @daviwil @maxbrunsfeld
+/packages/one-dark-syntax/styles/syntax-legacy/php.less @daviwil @maxbrunsfeld
+/packages/one-dark-syntax/styles/syntax-legacy/python.less @daviwil @maxbrunsfeld
+/packages/one-dark-syntax/styles/syntax-legacy/ruby.less @daviwil @maxbrunsfeld
+/packages/one-dark-syntax/styles/syntax-legacy/typescript.less @Ben3eeE @simurai
+/packages/one-dark-syntax/styles/syntax/ @chbk @sadick254
+/packages/one-dark-syntax/styles/syntax/css.less @daviwil @maxbrunsfeld
+/packages/one-dark-ui/* @daviwil @maxbrunsfeld
+/packages/one-dark-ui/lib/ @Zachinquarantine
+/packages/one-dark-ui/package.json @jasonrudolph
+/packages/one-dark-ui/spec/ @daviwil @jasonrudolph @maxbrunsfeld @rafeca
+/packages/one-dark-ui/styles/ @daviwil @maxbrunsfeld
+/packages/one-dark-ui/styles/inputs.less @wbinnssmith
+/packages/one-dark-ui/styles/lists.less @simurai
+/packages/one-dark-ui/styles/settings.less @simurai
+/packages/one-dark-ui/styles/tabs.less @simurai
+/packages/one-light-syntax/* @daviwil @jasonrudolph
+/packages/one-light-syntax/index.less @Ben3eeE @chbk @sadick254 @simurai
+/packages/one-light-syntax/styles/* @daviwil @jasonrudolph
+/packages/one-light-syntax/styles/colors.less @chbk @sadick254
+/packages/one-light-syntax/styles/syntax-legacy/ @chbk @sadick254
+/packages/one-light-syntax/styles/syntax-legacy/_base.less @as-cii @daviwil @jasonrudolph @rsese
+/packages/one-light-syntax/styles/syntax-legacy/c.less @daviwil @jasonrudolph
+/packages/one-light-syntax/styles/syntax-legacy/cpp.less @daviwil @jasonrudolph
+/packages/one-light-syntax/styles/syntax-legacy/cs.less @daviwil @jasonrudolph
+/packages/one-light-syntax/styles/syntax-legacy/elixir.less @daviwil @jasonrudolph
+/packages/one-light-syntax/styles/syntax-legacy/gfm.less @daviwil @jasonrudolph
+/packages/one-light-syntax/styles/syntax-legacy/go.less @daviwil @jasonrudolph
+/packages/one-light-syntax/styles/syntax-legacy/ini.less @daviwil @jasonrudolph
+/packages/one-light-syntax/styles/syntax-legacy/java.less @daviwil @jasonrudolph
+/packages/one-light-syntax/styles/syntax-legacy/javascript.less @daviwil @jasonrudolph
+/packages/one-light-syntax/styles/syntax-legacy/json.less @daviwil @jasonrudolph
+/packages/one-light-syntax/styles/syntax-legacy/ng.less @daviwil @jasonrudolph
+/packages/one-light-syntax/styles/syntax-legacy/php.less @daviwil @jasonrudolph
+/packages/one-light-syntax/styles/syntax-legacy/python.less @daviwil @jasonrudolph
+/packages/one-light-syntax/styles/syntax-legacy/ruby.less @daviwil @jasonrudolph
+/packages/one-light-syntax/styles/syntax-legacy/typescript.less @Ben3eeE @simurai
+/packages/one-light-syntax/styles/syntax/ @chbk @sadick254
+/packages/one-light-syntax/styles/syntax/css.less @daviwil @jasonrudolph
+/packages/one-light-ui/* @daviwil @jasonrudolph
+/packages/one-light-ui/lib/ @Zachinquarantine
+/packages/one-light-ui/package.json @maxbrunsfeld
+/packages/one-light-ui/spec/ @daviwil @jasonrudolph @maxbrunsfeld @rafeca
+/packages/one-light-ui/styles/ @daviwil @jasonrudolph
+/packages/one-light-ui/styles/inputs.less @wbinnssmith
+/packages/one-light-ui/styles/lists.less @simurai
+/packages/one-light-ui/styles/settings.less @simurai
+/packages/one-light-ui/styles/tabs.less @simurai
+/packages/solarized-dark-syntax/* @ryanolsonx @simurai
+/packages/solarized-dark-syntax/index.less @chbk @sadick254
+/packages/solarized-dark-syntax/styles/* @ryanolsonx @simurai
+/packages/solarized-dark-syntax/styles/syntax-legacy/ @chbk @sadick254
+/packages/solarized-dark-syntax/styles/syntax-legacy/_base.less @ryanolsonx @simurai
+/packages/solarized-dark-syntax/styles/syntax-legacy/c.less @ryanolsonx @simurai
+/packages/solarized-dark-syntax/styles/syntax-legacy/coffee.less @ryanolsonx @simurai
+/packages/solarized-dark-syntax/styles/syntax-legacy/go.less @ryanolsonx @simurai
+/packages/solarized-dark-syntax/styles/syntax-legacy/java.less @ryanolsonx @simurai
+/packages/solarized-dark-syntax/styles/syntax-legacy/javascript.less @joseramonc @ryanolsonx @simurai
+/packages/solarized-dark-syntax/styles/syntax-legacy/markdown.less @ryanolsonx @simurai
+/packages/solarized-dark-syntax/styles/syntax-legacy/markup.less @ryanolsonx @simurai
+/packages/solarized-dark-syntax/styles/syntax-legacy/php.less @ryanolsonx @simurai
+/packages/solarized-dark-syntax/styles/syntax-legacy/python.less @ryanolsonx @simurai
+/packages/solarized-dark-syntax/styles/syntax-legacy/ruby.less @ryanolsonx @simurai
+/packages/solarized-dark-syntax/styles/syntax-legacy/scala.less @ryanolsonx @simurai
+/packages/solarized-dark-syntax/styles/syntax-legacy/typescript.less @ryanolsonx @simurai
+/packages/solarized-dark-syntax/styles/syntax/ @chbk @sadick254
+/packages/solarized-dark-syntax/styles/syntax/css.less @ryanolsonx @simurai
+/packages/solarized-light-syntax/* @ryanolsonx @simurai
+/packages/solarized-light-syntax/index.less @chbk @sadick254
+/packages/solarized-light-syntax/styles/* @ryanolsonx @simurai
+/packages/solarized-light-syntax/styles/syntax-legacy/ @chbk @sadick254
+/packages/solarized-light-syntax/styles/syntax-legacy/_base.less @ryanolsonx @simurai
+/packages/solarized-light-syntax/styles/syntax-legacy/c.less @ryanolsonx @simurai
+/packages/solarized-light-syntax/styles/syntax-legacy/coffee.less @ryanolsonx @simurai
+/packages/solarized-light-syntax/styles/syntax-legacy/go.less @ryanolsonx @simurai
+/packages/solarized-light-syntax/styles/syntax-legacy/java.less @ryanolsonx @simurai
+/packages/solarized-light-syntax/styles/syntax-legacy/javascript.less @ryanolsonx @simurai
+/packages/solarized-light-syntax/styles/syntax-legacy/markdown.less @ryanolsonx @simurai
+/packages/solarized-light-syntax/styles/syntax-legacy/markup.less @ryanolsonx @simurai
+/packages/solarized-light-syntax/styles/syntax-legacy/php.less @ryanolsonx @simurai
+/packages/solarized-light-syntax/styles/syntax-legacy/python.less @ryanolsonx @simurai
+/packages/solarized-light-syntax/styles/syntax-legacy/ruby.less @ryanolsonx @simurai
+/packages/solarized-light-syntax/styles/syntax-legacy/scala.less @ryanolsonx @simurai
+/packages/solarized-light-syntax/styles/syntax-legacy/typescript.less @ryanolsonx @simurai
+/packages/solarized-light-syntax/styles/syntax/ @chbk @sadick254
+/packages/solarized-light-syntax/styles/syntax/css.less @ryanolsonx @simurai
+/packages/update-package-dependencies/ @jasonrudolph
+/packages/welcome/* @jasonrudolph
+/packages/welcome/assets/ @jasonrudolph
+/packages/welcome/docs/ @jasonrudolph
+/packages/welcome/lib/consent-view.js @jasonrudolph
+/packages/welcome/lib/guide-view.js @jasonrudolph
+/packages/welcome/lib/main.js @jasonrudolph
+/packages/welcome/lib/reporter-proxy.js @jasonrudolph
+/packages/welcome/lib/welcome-package.js @jasonrudolph
+/packages/welcome/lib/welcome-view.js @sadick254
+/packages/welcome/menus/ @jasonrudolph
+/packages/welcome/package-lock.json @DeeDeeG @sadick254
+/packages/welcome/styles/ @jasonrudolph
+/packages/welcome/test/ @jasonrudolph
+/PULL_REQUEST_TEMPLATE.md @Arcanemagus @jasonrudolph @lee-dohm
+/Rakefile @gjtorikian @kevinsawicki @nathansobo @probablycorey @zcbenz
+/README.md @sadick254
+/resources/app-icons/beta/atom.icns @andylin2004
+/resources/app-icons/beta/atom.ico @idleberg @icecream17
+/resources/app-icons/beta/png/ @maxbrunsfeld @PeterDaveHello
+/resources/app-icons/dev/atom.icns @andylin2004
+/resources/app-icons/dev/atom.ico @idleberg @icecream17
+/resources/app-icons/dev/png/ @maxbrunsfeld @PeterDaveHello
+/resources/app-icons/nightly/atom.icns @andylin2004
+/resources/app-icons/nightly/atom.ico @idleberg @icecream17
+/resources/app-icons/nightly/png/ @daviwil @maxbrunsfeld
+/resources/app-icons/stable/atom.icns @andylin2004
+/resources/app-icons/stable/atom.ico @idleberg @icecream17
+/resources/app-icons/stable/png/ @eestrada @maxbrunsfeld @PeterDaveHello
+/resources/linux/atom.desktop.in @sadick254
+/resources/linux/atom.policy @as-cii
+/resources/linux/debian/ @Codingprodigy-tech @DeeDeeG @mfonville
+/resources/linux/desktopenviroment/ @passeride
+/resources/linux/redhat/ @DeeDeeG @expeehaa
+/resources/mac/app-Info.plist @zcbenz
+/resources/mac/atom-Info.plist @daviwil @nathansobo
+/resources/mac/entitlements.plist @lkashef
+/resources/mac/file.icns @andylin2004 @sadick254
+/resources/mac/helper-Info.plist @zcbenz
+/resources/win/apm.cmd @50Wliu
+/resources/win/apm.sh @50Wliu @absynce @kevinsawicki
+/resources/win/atom.cmd @as-cii @damieng @daviwil @kevinsawicki @nathansobo @raelyard @smashwilson @thomasjo
+/resources/win/atom.js @daviwil @kevinsawicki @nathansobo @rafeca
+/resources/win/atom.sh @Jinivus @okonomiyaki3000
+/resources/win/atom.visualElementsManifest.xml @kutluhanazafli @richiksc
+/resources/win/file.ico @simurai
+/resources/win/folder.ico @damieng
+/resources/win/visualElements/ @kutluhanazafli @richiksc
+/script/bootstrap @icecream17
+/script/build @50Wliu @Aerijo @aminya @Arcanemagus @as-cii @BinaryMuse @damieng @daviwil @jasonrudolph @krnowak @lee-dohm @lkashef @maxbrunsfeld @nathansobo @philschatz @probablycorey @rafeca @smashwilson
+/script/cibuild @joefitzgerald @joshaber @kevinsawicki @maxbrunsfeld @nathansobo @probablycorey @thomasjo @zcbenz
+/script/clean @damieng @kevinsawicki @nathansobo @thomasjo
+/script/config.js @icecream17
+/script/constructicon/ @probablycorey
+/script/deprecated-packages.json @idleberg @kevinsawicki @nathansobo
+/script/generate-info-plist @zcbenz
+/script/lib/backup-node-modules.js @50Wliu @as-cii @BinaryMuse @kuychaco @rafeca
+/script/lib/check-chromedriver-version.js @icecream17
+/script/lib/clean-caches.js @as-cii @kierans @maxbrunsfeld @nathansobo @rafeca
+/script/lib/clean-dependencies.js @50Wliu @daviwil @nathansobo @rafeca
+/script/lib/clean-output-directory.js @50Wliu @nathansobo @rafeca
+/script/lib/code-sign-on-mac.js @50Wliu @as-cii @BinaryMuse @daviwil @lkashef @maxbrunsfeld @nathansobo @rafeca
+/script/lib/code-sign-on-windows.js @50Wliu @damieng @lkashef @rafeca
+/script/lib/compress-artifacts.js @50Wliu @damieng @darangi @daviwil @maxbrunsfeld @nathansobo @rafeca @trongham
+/script/lib/copy-assets.js @50Wliu @as-cii @daviwil @maxbrunsfeld @nathansobo @rafeca
+/script/lib/create-debian-package.js @50Wliu @ablakely @anaisbetts @as-cii @daviwil @DeeDeeG @Descear @maxbrunsfeld @nathansobo @rafeca @smashwilson @yuparach99
+/script/lib/create-rpm-package.js @50Wliu @as-cii @daviwil @maxbrunsfeld @nathansobo @rafeca @smashwilson
+/script/lib/create-windows-installer.js @as-cii @BinaryMuse @damieng @daviwil @lkashef @maxbrunsfeld @nathansobo @rafeca
+/script/lib/delete-msbuild-from-path.js @50Wliu @nathansobo @rafeca
+/script/lib/dependencies-fingerprint.js @damieng @nathansobo @rafeca
+/script/lib/download-file-from-github.js @kevinsawicki @nathansobo @rafeca @sadick254
+/script/lib/dump-symbols.js @bullibasti @Daniel199604 @nathansobo @rafeca @sadick254 @smashwilson
+/script/lib/expand-glob-paths.js @nathansobo @rafeca
+/script/lib/generate-api-docs.js @nathansobo @rafeca
+/script/lib/generate-metadata.js @50Wliu @as-cii @daviwil @maxbrunsfeld @nathansobo @rafeca
+/script/lib/generate-module-cache.js @nathansobo @rafeca
+/script/lib/generate-startup-snapshot.js @50Wliu @Alex3937 @annthurium @as-cii @atom-build @BinaryMuse @damieng @darangi @daviwil @dmoonfire @jasonrudolph @leroix @maxbrunsfeld @nathansobo @rafeca @smashwilson @thomasjo @trongham
+/script/lib/get-license-text.js @50Wliu @nathansobo @rafeca
+/script/lib/handle-tilde.js @50Wliu @krnowak @rafeca
+/script/lib/include-path-in-packaged-app.js @50Wliu @aminya @anaisbetts @daviwil @iolsen @jasonrudolph @maxbrunsfeld @nathansobo @rafeca @smashwilson
+/script/lib/install-apm.js @icecream17
+/script/lib/install-application.js @50Wliu @as-cii @daviwil @krnowak @maxbrunsfeld @MoritzKn @nathansobo @rafeca
+/script/lib/install-script-dependencies.js @icecream17
+/script/lib/kill-running-atom-instances.js @as-cii @nathansobo @rafeca
+/script/lib/lint-coffee-script-paths.js @nathansobo @rafeca
+/script/lib/lint-java-script-paths.js @50Wliu @jasonrudolph @nathansobo @rafeca
+/script/lib/lint-less-paths.js @Arcanemagus @nathansobo @rafeca @wbinnssmith
+/script/lib/notarize-on-mac.js @lkashef
+/script/lib/package-application.js @aminya @anaisbetts @as-cii @atom-build @damieng @daviwil @flububb @lkashef @maxbrunsfeld @nathansobo @rafeca @sadick254 @smashwilson
+/script/lib/prebuild-less-cache.js @50Wliu @as-cii @nathansobo @rafeca
+/script/lib/read-files.js @nathansobo @rafeca
+/script/lib/run-apm-install.js @50Wliu @Aerijo @as-cii @BinaryMuse @damieng @daviwil @nathansobo @rafeca @smashwilson
+/script/lib/spawn-sync.js @nathansobo @rafeca
+/script/lib/test-sign-on-mac.js @as-cii @daviwil @rafeca
+/script/lib/transpile-babel-paths.js @50Wliu @as-cii @edjubuh @nathansobo @rafeca
+/script/lib/transpile-coffee-script-paths.js @edjubuh @nathansobo @rafeca
+/script/lib/transpile-cson-paths.js @edjubuh @nathansobo @rafeca
+/script/lib/transpile-packages-with-custom-transpiler-paths.js @50Wliu @as-cii @BinaryMuse @edjubuh @jsoref @kuychaco @rafeca
+/script/lib/transpile-peg-js-paths.js @50Wliu @edjubuh @nathansobo @rafeca
+/script/lib/update-dependency/check-apm.js @darangi
+/script/lib/update-dependency/check-npm.js @darangi
+/script/lib/update-dependency/fetch-outdated-dependencies.js @darangi
+/script/lib/update-dependency/git.js @atom-build
+/script/lib/update-dependency/index.js @darangi @lkashef
+/script/lib/update-dependency/main.js @darangi
+/script/lib/update-dependency/pull-request.js @clarkkjbell @darangi @lkashef @sadick254
+/script/lib/update-dependency/spec/ @darangi
+/script/lib/update-dependency/spec/fetch-outdated-dependencies-spec.js @lkashef
+/script/lib/update-dependency/spec/fixtures/ @lkashef
+/script/lib/update-dependency/spec/helpers.js @lkashef
+/script/lib/update-dependency/spec/pull-request-spec.js @lkashef
+/script/lib/update-dependency/spec/util-spec.js @lkashef
+/script/lib/update-dependency/util.js @darangi @lkashef
+/script/lib/verify-machine-requirements.js @sadick254
+/script/license-overrides.js @50Wliu @nathansobo @rafeca
+/script/lint @nathansobo
+/script/lint.cmd @nathansobo
+/script/package-lock.json @icecream17
+/script/package.json @icecream17
+/script/postprocess-junit-results @smashwilson
+/script/postprocess-junit-results.cmd @smashwilson
+/script/redownload-electron-bins.js @DeeDeeG
+/script/test @icecream17
+/script/test.cmd @as-cii
+/script/update-libgit2 @kevinsawicki
+/script/update-server/ @daviwil
+/script/update-server/run-server.js @rafeca
+/script/verify-snapshot-script @as-cii
+/script/vsts/get-release-version.js @aminya @daviwil @DeeDeeG @rafeca @sadick254
+/script/vsts/lib/release-notes.js @darangi
+/script/vsts/lib/upload-linux-packages.js @daviwil @rafeca
+/script/vsts/lib/upload-to-azure-blob.js @darangi
+/script/vsts/lint.yml @Aerijo @aminya
+/script/vsts/nightly-release.yml @darangi
+/script/vsts/package-lock.json @dependabot @darangi
+/script/vsts/package.json @darangi
+/script/vsts/platforms/* @sadick254
+/script/vsts/platforms/macos.yml @Aerijo @aminya @as-cii @atom-build @chrispat @darangi @daviwil @DeeDeeG @jasonrudolph @lkashef @maxbrunsfeld @nathansobo @rafeca @smashwilson @trongham
+/script/vsts/platforms/templates/bootstrap.yml @aminya @DeeDeeG @sadick254
+/script/vsts/platforms/templates/build.yml @aminya @DeeDeeG @sadick254
+/script/vsts/platforms/templates/cache.yml @aminya @DeeDeeG @sadick254
+/script/vsts/platforms/templates/download-unzip.yml @aminya
+/script/vsts/platforms/templates/get-release-version.yml @Aerijo @aminya @sadick254
+/script/vsts/platforms/templates/preparation.yml @sadick254
+/script/vsts/platforms/templates/publish.yml @aminya @sadick254
+/script/vsts/platforms/templates/test.yml @darangi
+/script/vsts/platforms/windows.yml @Aerijo @aminya @as-cii @atom-build @chrispat @darangi @daviwil @DeeDeeG @jasonrudolph @lkashef @maxbrunsfeld @nathansobo @rafeca @smashwilson @trongham @yuparach99
+/script/vsts/pull-requests.yml @Aerijo @aminya @as-cii @chrispat @daviwil @DeeDeeG @rafeca @sadick254
+/script/vsts/README.md @daviwil @maxbrunsfeld
+/script/vsts/release-branch-build.yml @darangi
+/script/vsts/upload-artifacts.js @darangi
+/script/vsts/upload-crash-reports.js @darangi
+/script/vsts/x64-cache-key @as-cii @rafeca
+/script/vsts/x86-cache-key @as-cii @rafeca
+/spec/6to5-spec.coffee @bolinfest
+/spec/app/editor-replication-spec.coffee @nathansobo
+/spec/app/grammar-view-spec.coffee @kevinsawicki @nathansobo
+/spec/app/image-view-spec.coffee @nathansobo
+/spec/app/project-replication-spec.coffee @nathansobo
+/spec/app/screen-line-spec.coffee @probablycorey
+/spec/app/status-bar-spec.coffee @kevinsawicki @nathansobo
+/spec/app/tex-buffer-spec.coffee @kevinsawicki @nathansobo
+/spec/app/text-buffer-replication-spec.coffee @nathansobo
+/spec/app/text-mate-bundle-spec.coffee @probablycorey
+/spec/app/text-mate-scope-selector-spec.coffee @kevinsawicki
+/spec/app/text-mate-theme-spec.coffee @kevinsawicki @nathansobo
+/spec/application-delegate-spec.js @Arcanemagus @jasonrudolph @nathansobo @rafeca
+/spec/async-spec-helpers.js @aminya @Arcanemagus @BinaryMuse @jasonrudolph @maxbrunsfeld @nathansobo @rafeca @sadick254 @smashwilson
+/spec/atom-environment-spec.js @50Wliu @Arcanemagus @as-cii @captbaritone @daviwil @jasonrudolph @leroix @maxbrunsfeld @rafeca @smashwilson
+/spec/atom-package-spec.coffee @kevinsawicki @mcolyer
+/spec/atom-paths-spec.js @Arcanemagus @bullibasti @damieng @Daniel199604 @jasonrudolph @rafeca @sadick254 @smashwilson
+/spec/atom-protocol-handler-spec.js @sadick254
+/spec/atom-reporter.coffee @icecream17
+/spec/auto-update-manager-spec.js @as-cii @damieng @daviwil @jasonrudolph @leo @maxbrunsfeld @rafeca @thedaniel
+/spec/babel-spec.js @sadick254
+/spec/buffered-node-process-spec.js @sadick254
+/spec/buffered-process-spec.js @sadick254
+/spec/clipboard-spec.js @50Wliu
+/spec/command-installer-spec.js @50Wliu @Arcanemagus @daviwil @jasonrudolph @maxbrunsfeld @rafeca
+/spec/command-registry-spec.js @Arcanemagus @as-cii @jasonrudolph @nathansobo @rafeca @UziTech @wbinnssmith
+/spec/compile-cache-spec.coffee @as-cii @basarat @damieng @Ingramz @kevinsawicki @maxbrunsfeld @nathansobo @smashwilson @XVincentX @zcbenz
+/spec/config-file-spec.js @Arcanemagus @jasonrudolph @maxbrunsfeld @rafeca @smashwilson
+/spec/config-spec.js @jasonrudolph @matthewwithanm @maxbrunsfeld @philipfweiss @rafeca @wbinnssmith
+/spec/context-menu-manager-spec.js @juggernautjp
+/spec/decoration-manager-spec.js @sadick254
+/spec/default-directory-provider-spec.js @sadick254
+/spec/default-directory-searcher-spec.js @rafeca
+/spec/deserializer-manager-spec.js @sadick254
+/spec/directory-spec.coffee @kevinsawicki @nathansobo
+/spec/dock-spec.js @Arcanemagus @as-cii @daviwil @jasonrudolph @matthewwithanm @maxbrunsfeld @nathansobo @rafeca
+/spec/edit-session-spec.coffee @benogle @defunkt @kevinsawicki @mcolyer @mutle @nathansobo @probablycorey @zcbenz
+/spec/extensions/event-palette-spec.coffee @nathansobo
+/spec/extensions/fuzzy-finder-spec.coffee @nathansobo
+/spec/extensions/outline-view-spec.coffee @kevinsawicki
+/spec/extensions/select-list-spec.coffee @nathansobo
+/spec/extensions/wrap-guide-spec.coffee @nathansobo
+/spec/file-spec.coffee @benogle @kevinsawicki @nathansobo @probablycorey @zcbenz
+/spec/file-system-blob-store-spec.js @sadick254
+/spec/fixtures/babel/babel-comment.js @maxbrunsfeld
+/spec/fixtures/babel/flow-comment.js @joshaber
+/spec/fixtures/babel/flow-slash-comment.js @saadq
+/spec/fixtures/babel/invalid.js @daviwil @jasonrudolph @rafeca @smashwilson @thomasjo @zcbenz
+/spec/fixtures/COMMIT_EDITMSG @kevinsawicki
+/spec/fixtures/cson.cson @kevinsawicki
+/spec/fixtures/dir/c @nathansobo @rafeca
+/spec/fixtures/dir/file-detected-as-binary @nathansobo @rafeca
+/spec/fixtures/dir/file-with-newline-literal @nathansobo @rafeca
+/spec/fixtures/dir/file-with-unicode @nathansobo @rafeca
+/spec/fixtures/dir/file1 @probablycorey
+/spec/fixtures/git/ignore.git/ @kevinsawicki
+/spec/fixtures/git/master.git/* @kevinsawicki
+/spec/fixtures/git/master.git/config @alissonpelizaro @jasonrudolph @lexi-lambda @maxbrunsfeld
+/spec/fixtures/git/master.git/objects/ @kevinsawicki
+/spec/fixtures/git/master.git/refs/ @kevinsawicki
+/spec/fixtures/git/master.git/worktrees/ @alissonpelizaro @lexi-lambda
+/spec/fixtures/git/repo-with-submodules/* @thedaniel
+/spec/fixtures/git/repo-with-submodules/git.git/* @thedaniel
+/spec/fixtures/git/repo-with-submodules/git.git/config @joshaber
+/spec/fixtures/git/repo-with-submodules/git.git/hooks/ @thedaniel
+/spec/fixtures/git/repo-with-submodules/git.git/info/ @thedaniel
+/spec/fixtures/git/repo-with-submodules/git.git/logs/ @thedaniel
+/spec/fixtures/git/repo-with-submodules/git.git/modules/ @thedaniel
+/spec/fixtures/git/repo-with-submodules/git.git/objects/ @thedaniel
+/spec/fixtures/git/repo-with-submodules/git.git/refs/heads/ @thedaniel
+/spec/fixtures/git/repo-with-submodules/git.git/refs/remotes/ @joshaber
+/spec/fixtures/git/repo-with-submodules/jstips/ @thedaniel
+/spec/fixtures/git/repo-with-submodules/jstips/README.md @leo
+/spec/fixtures/git/repo-with-submodules/You-Dont-Need-jQuery/ @thedaniel
+/spec/fixtures/git/working-dir/.gitignore @benogle @wfarr
+/spec/fixtures/git/working-dir/a.txt @kevinsawicki
+/spec/fixtures/git/working-dir/git.git/* @benogle
+/spec/fixtures/git/working-dir/git.git/index @kevinsawicki
+/spec/fixtures/git/working-dir/git.git/objects/06/ @kevinsawicki
+/spec/fixtures/git/working-dir/git.git/objects/16/ @kevinsawicki
+/spec/fixtures/git/working-dir/git.git/objects/52/ @kevinsawicki
+/spec/fixtures/git/working-dir/git.git/objects/5b/ @kevinsawicki
+/spec/fixtures/git/working-dir/git.git/objects/65/ @benogle
+/spec/fixtures/git/working-dir/git.git/objects/66/ @kevinsawicki
+/spec/fixtures/git/working-dir/git.git/objects/8a/ @kevinsawicki
+/spec/fixtures/git/working-dir/git.git/objects/e6/ @benogle
+/spec/fixtures/git/working-dir/git.git/objects/ec/ @kevinsawicki
+/spec/fixtures/git/working-dir/git.git/objects/ef/ @benogle
+/spec/fixtures/git/working-dir/git.git/objects/fe/ @kevinsawicki
+/spec/fixtures/git/working-dir/git.git/objects/ff/ @kevinsawicki
+/spec/fixtures/git/working-dir/git.git/refs/ @benogle @kevinsawicki
+/spec/fixtures/git/working-dir/ignored.txt @wfarr
+/spec/fixtures/includes.cc @kevinsawicki
+/spec/fixtures/indentation/ @chfritz
+/spec/fixtures/lorem.txt @damieng
+/spec/fixtures/module-cache/ @kevinsawicki
+/spec/fixtures/native-cache/ @as-cii
+/spec/fixtures/packages/folder/ @aminya
+/spec/fixtures/packages/package-that-throws-an-exception/ @kevinsawicki
+/spec/fixtures/packages/package-with-a-cson-grammar.tmbundle/ @kevinsawicki
+/spec/fixtures/packages/package-with-activation-commands-and-deserializers/ @50Wliu
+/spec/fixtures/packages/package-with-activation-commands/ @nathansobo
+/spec/fixtures/packages/package-with-activation-commands/index.coffee @maxbrunsfeld
+/spec/fixtures/packages/package-with-activation-hooks/ @joefitzgerald
+/spec/fixtures/packages/package-with-broken-keymap/ @mcolyer
+/spec/fixtures/packages/package-with-broken-package-json/ @mcolyer
+/spec/fixtures/packages/package-with-broken-snippets.tmbundle/ @kevinsawicki @nathansobo
+/spec/fixtures/packages/package-with-config-defaults/ @nathansobo
+/spec/fixtures/packages/package-with-config-schema/ @benogle
+/spec/fixtures/packages/package-with-consumed-services/ @maxbrunsfeld
+/spec/fixtures/packages/package-with-deactivate/ @nathansobo
+/spec/fixtures/packages/package-with-deserializers/ @maxbrunsfeld
+/spec/fixtures/packages/package-with-deserializers/index.js @matthewwithanm
+/spec/fixtures/packages/package-with-different-directory-name/ @mnquintana
+/spec/fixtures/packages/package-with-directory-provider/ @maxbrunsfeld
+/spec/fixtures/packages/package-with-empty-activation-commands/ @nathansobo
+/spec/fixtures/packages/package-with-empty-activation-commands/package.json @jlord
+/spec/fixtures/packages/package-with-empty-activation-hooks/ @joefitzgerald
+/spec/fixtures/packages/package-with-empty-workspace-openers/ @50Wliu
+/spec/fixtures/packages/package-with-eval-time-api-calls/ @maxbrunsfeld
+/spec/fixtures/packages/package-with-extension/ @probablycorey
+/spec/fixtures/packages/package-with-grammars/ @nathansobo
+/spec/fixtures/packages/package-with-ignored-incompatible-native-module/ @scv119
+/spec/fixtures/packages/package-with-incompatible-native-module-loaded-conditionally/ @aminya
+/spec/fixtures/packages/package-with-incompatible-native-module/ @zcbenz
+/spec/fixtures/packages/package-with-incompatible-native-module/package.json @jlord
+/spec/fixtures/packages/package-with-index/ @nathansobo
+/spec/fixtures/packages/package-with-invalid-activation-commands/ @kevinsawicki
+/spec/fixtures/packages/package-with-invalid-context-menu/ @kevinsawicki
+/spec/fixtures/packages/package-with-invalid-grammar/ @kevinsawicki
+/spec/fixtures/packages/package-with-invalid-settings/ @kevinsawicki
+/spec/fixtures/packages/package-with-json-config-schema/ @maxbrunsfeld
+/spec/fixtures/packages/package-with-keymaps/ @nathansobo
+/spec/fixtures/packages/package-with-keymaps/keymaps/keymap-3.cjson @kevinsawicki
+/spec/fixtures/packages/package-with-main/ @nathansobo
+/spec/fixtures/packages/package-with-main/package.cson @maxbrunsfeld
+/spec/fixtures/packages/package-with-menus-manifest/ @mcolyer
+/spec/fixtures/packages/package-with-menus-manifest/menus/ @benogle
+/spec/fixtures/packages/package-with-menus/ @mcolyer @nathansobo
+/spec/fixtures/packages/package-with-missing-consumed-services/ @jlord
+/spec/fixtures/packages/package-with-missing-provided-services/ @jlord
+/spec/fixtures/packages/package-with-no-activate/ @kevinsawicki
+/spec/fixtures/packages/package-with-prefixed-and-suffixed-repo-url/ @nathansobo
+/spec/fixtures/packages/package-with-provided-services/ @maxbrunsfeld
+/spec/fixtures/packages/package-with-rb-filetype/ @kevinsawicki
+/spec/fixtures/packages/package-with-rb-filetype/grammars/ @Ingramz @maxbrunsfeld @queerviolet
+/spec/fixtures/packages/package-with-serialization/ @nathansobo
+/spec/fixtures/packages/package-with-serialize-error/ @kevinsawicki
+/spec/fixtures/packages/package-with-settings/ @nathansobo
+/spec/fixtures/packages/package-with-short-url-package-json/ @jlord
+/spec/fixtures/packages/package-with-style-sheets-manifest/ @nathansobo
+/spec/fixtures/packages/package-with-styles/ @nathansobo
+/spec/fixtures/packages/package-with-stylesheets-manifest/ @nathansobo
+/spec/fixtures/packages/package-with-stylesheets/ @nathansobo
+/spec/fixtures/packages/package-with-tree-sitter-grammar/ @Alex3937 @maxbrunsfeld
+/spec/fixtures/packages/package-with-uri-handler/ @BinaryMuse @nathansobo
+/spec/fixtures/packages/package-with-url-main/ @hansonw @iolsen
+/spec/fixtures/packages/package-with-view-providers/ @maxbrunsfeld
+/spec/fixtures/packages/package-with-workspace-openers/ @50Wliu
+/spec/fixtures/packages/package-without-module/ @nathansobo
+/spec/fixtures/packages/theme-with-incomplete-ui-variables/styles/ @nathansobo
+/spec/fixtures/packages/theme-with-index-css/ @mcolyer
+/spec/fixtures/packages/theme-with-index-css/index.css @kevinsawicki @nathansobo
+/spec/fixtures/packages/theme-with-index-less/ @mcolyer
+/spec/fixtures/packages/theme-with-index-less/index.less @nathansobo
+/spec/fixtures/packages/theme-with-invalid-styles/ @kevinsawicki
+/spec/fixtures/packages/theme-with-package-file/ @mcolyer @nathansobo
+/spec/fixtures/packages/theme-with-package-file/* @kevinsawicki
+/spec/fixtures/packages/theme-with-package-file/styles/first.css @kevinsawicki
+/spec/fixtures/packages/theme-with-package-file/styles/last.css @kevinsawicki
+/spec/fixtures/packages/theme-with-syntax-variables/styles/ @nathansobo
+/spec/fixtures/packages/theme-with-ui-variables/ @benogle @mcolyer
+/spec/fixtures/packages/theme-with-ui-variables/styles/ @nathansobo
+/spec/fixtures/packages/theme-without-package-file/ @mcolyer @nathansobo
+/spec/fixtures/packages/theme-without-package-file/styles/a.css @kevinsawicki
+/spec/fixtures/packages/theme-without-package-file/styles/b.css @kevinsawicki
+/spec/fixtures/packages/theme-without-package-file/styles/d.csv @kevinsawicki
+/spec/fixtures/packages/wordcount/ @kevinsawicki
+/spec/fixtures/sample-with-comments.js @as-cii
+/spec/fixtures/sample-with-many-folds.js @lpommers
+/spec/fixtures/sample.txt @damieng @maxbrunsfeld
+/spec/fixtures/shebang @damieng
+/spec/fixtures/task-handler-with-deprecations.coffee @kevinsawicki @thomasjo
+/spec/fixtures/testdir/sample-theme-2/src/js/plugin/ @DouweM
+/spec/fixtures/themes/ @kevinsawicki
+/spec/fixtures/typescript/ @basarat
+/spec/fs-utils-spec.coffee @kevinsawicki @nathansobo
+/spec/git-repository-provider-spec.js @alissonpelizaro @Arcanemagus @BinaryMuse @cozyplanes @jasonrudolph @lexi-lambda @lgeiger @maxbrunsfeld @rafeca @Romario3000 @Xapphire13
+/spec/git-repository-spec.js @Arcanemagus @jasonrudolph @maxbrunsfeld @rafeca
+/spec/grammar-registry-spec.js @Aerijo @Alex3937 @Arcanemagus @daviwil @jasonrudolph @maxbrunsfeld @rafeca
+/spec/gutter-container-spec.js @jasonrudolph @rafeca
+/spec/gutter-spec.js @jasonrudolph @rafeca
+/spec/helpers/ @as-cii @rafeca
+/spec/helpers/random.js @jasonrudolph
+/spec/history-manager-spec.js @50Wliu @Arcanemagus @as-cii @damieng @jasonrudolph @maxbrunsfeld @rafeca @thomasjo
+/spec/integration/* @50Wliu @as-cii
+/spec/integration/fixtures/ @jonathanrdelgado
+/spec/integration/helpers/atom-launcher.sh @maxbrunsfeld
+/spec/integration/helpers/start-atom.js @50Wliu @aminya @as-cii @atom-build @bullibasti @Daniel199604 @IAMCRISTAL @lkashef @mfonville @nathansobo @sadick254
+/spec/jasmine-junit-reporter.js @rafeca @smashwilson
+/spec/jasmine-list-reporter.js @50Wliu @jasonrudolph @rafeca @smashwilson
+/spec/jasmine-test-runner.coffee @50Wliu @Arcanemagus @as-cii @casesandberg @Ingramz @jasonrudolph @nathansobo @rafeca @sadick254 @smashwilson
+/spec/keymap-extensions-spec.js @sadick254
+/spec/keymap-spec.coffee @kevinsawicki @mcolyer @nathansobo @zcbenz
+/spec/main-process/atom-application.test.js @sadick254
+/spec/main-process/atom-window.test.js @as-cii @atom-build @daviwil @jasonrudolph @rafeca @sadick254 @smashwilson @TheDrawingCoder-Gamer
+/spec/main-process/file-recovery-service.test.js @as-cii @atom-build @damieng @daviwil @jasonrudolph @maxbrunsfeld @nathansobo @rafeca @smashwilson
+/spec/main-process/mocha-test-runner.js @as-cii @jasonrudolph @maxbrunsfeld @nathansobo @rafeca @smashwilson
+/spec/main-process/parse-command-line.test.js @BinaryMuse @DeeDeeG @jasonrudolph @maxbrunsfeld @nathansobo @rafeca @sadick254
+/spec/menu-manager-spec.js @juggernautjp
+/spec/menu-sort-helpers-spec.js @eltociear
+/spec/module-cache-spec.js @sadick254
+/spec/native-compile-cache-spec.coffee @as-cii @rafeca
+/spec/native-watcher-registry-spec.js @Arcanemagus @jasonrudolph @nathansobo @rafeca @smashwilson
+/spec/notification-manager-spec.js @jasonrudolph @maxbrunsfeld @rafeca @UziTech
+/spec/notification-spec.js @jasonrudolph @rafeca
+/spec/package-manager-spec.js @50Wliu @Alex3937 @aminya @Arcanemagus @BinaryMuse @daviwil @jasonrudolph @maxbrunsfeld @nathansobo @rafeca @smashwilson
+/spec/package-spec.js @aminya
+/spec/package-transpilation-registry-spec.js @Arcanemagus @as-cii @BinaryMuse @damieng @jasonrudolph @rafeca
+/spec/pane-axis-element-spec.js @sadick254
+/spec/pane-container-element-spec.js @sadick254
+/spec/pane-container-spec.js @ericcornelissen
+/spec/pane-element-spec.js @darangi
+/spec/pane-spec.js @ericcornelissen
+/spec/panel-container-element-spec.js @sadick254
+/spec/panel-container-spec.js @jasonrudolph @matthewwithanm @maxbrunsfeld @rafeca
+/spec/panel-spec.js @jasonrudolph @jsoref @maxbrunsfeld @rafeca
+/spec/pasteboard-spec.coffee @kevinsawicki @nathansobo
+/spec/path-watcher-spec.js @Arcanemagus @as-cii @jasonrudolph @nathansobo @rafeca @smashwilson
+/spec/project-spec.js @daviwil @hansonw @jasonrudolph @matthewwithanm @maxbrunsfeld @nathansobo @philipfweiss @rafeca @smashwilson @wbinnssmith
+/spec/reopen-project-menu-manager-spec.js @Arcanemagus @damieng @jasonrudolph @jsoref @rafeca
+/spec/root-view-spec.coffee @benogle @gjtorikian @kevinsawicki @nathansobo @probablycorey @wfarr
+/spec/select-list-spec.coffee @kevinsawicki @nathansobo
+/spec/selection-spec.js @daviwil @jasonrudolph @lee-dohm @maxbrunsfeld @rafeca @smashwilson
+/spec/spawner-spec.coffee @as-cii @BrainCrumbz
+/spec/spec-helper-platform.js @sadick254
+/spec/spec-helper.coffee @sadick254
+/spec/squirrel-update-spec.js @sadick254
+/spec/state-store-spec.js @Arcanemagus @jasonrudolph @kuychaco @matthewwithanm @maxbrunsfeld @rafeca
+/spec/stdlib/ @kevinsawicki
+/spec/stdlib/cson-spec.coffee @nathansobo @probablycorey
+/spec/stdlib/task-shell-spec.coffee @zcbenz
+/spec/style-manager-spec.js @as-cii @damieng @daviwil @jasonrudolph @nathansobo @rafeca @smashwilson
+/spec/styles-element-spec.js @sadick254
+/spec/syntax-scope-map-spec.js @Alex3937 @Ben3eeE @jasonrudolph @maxbrunsfeld @nathansobo @rafeca
+/spec/task-spec.js @sadick254
+/spec/text-buffer-spec.coffee @benogle @kevinsawicki @mutle @nathansobo @probablycorey @zcbenz
+/spec/text-editor-component-spec.js @sadick254
+/spec/text-editor-element-spec.js @sadick254
+/spec/text-editor-registry-spec.js @Arcanemagus @as-cii @damieng @daviwil @jasonrudolph @lee-dohm @maxbrunsfeld @nathansobo @pfitzseb @rafeca @sadick254 @StackNeverFlow @thomasjo @warrenpnz @zertosh
+/spec/text-editor-spec.js @50Wliu
+/spec/text-mate-grammar-spec.coffee @kevinsawicki @nathansobo @probablycorey @zcbenz
+/spec/text-mate-language-mode-spec.js @Arcanemagus @daviwil @jasonrudolph @maxbrunsfeld @queerviolet @rafeca @sadick254 @smashwilson
+/spec/text-utils-spec.js @jasonrudolph @rafeca
+/spec/theme-manager-spec.js @as-cii @daviwil @GilTeixeira @jasonrudolph @rafeca @smashwilson
+/spec/title-bar-element-spec.coffee @brumm
+/spec/title-bar-spec.js @as-cii @jasonrudolph @rafeca @smashwilson
+/spec/tooltip-manager-spec.js @50Wliu @annthurium @cacheflow @daviwil @jasonrudolph @rafeca @smashwilson @thomasjo
+/spec/tree-indenter-spec.js @chfritz
+/spec/tree-sitter-language-mode-spec.js @eltociear
+/spec/typescript-spec.js @sadick254
+/spec/update-process-env-spec.js @brettle
+/spec/uri-handler-registry-spec.js @Arcanemagus @BinaryMuse @jasonrudolph @nathansobo @rafeca @UziTech
+/spec/view-registry-spec.js @jasonrudolph @rafeca
+/spec/window-event-handler-spec.js @BoykoAlex @jasonrudolph @praveeno @rafeca @xfontes42
+/spec/workspace-center-spec.js @Arcanemagus @jasonrudolph @rafeca
+/spec/workspace-element-spec.js @Arcanemagus @as-cii @daviwil @jasonrudolph @matthewwithanm @maxbrunsfeld @rafeca @smashwilson @thomasjo @wbinnssmith
+/spec/workspace-spec.js @50Wliu @Aerijo @Arcanemagus @as-cii @daviwil @dirk-thomas @dwelle @hansonw @jasonrudolph @jsoref @matthewwithanm @maxbrunsfeld @nathansobo @rafeca @sadick254 @smashwilson @thomasjo
+/src/6to5.coffee @bolinfest @kevinsawicki
+/src/app/atom-theme.coffee @gjtorikian @kevinsawicki @nathansobo
+/src/app/grammar-view.coffee @kevinsawicki @nathansobo
+/src/app/image-edit-session.coffee @gjtorikian @nathansobo
+/src/app/image-view.coffee @gjtorikian
+/src/app/keymaps/apple.coffee @defunkt
+/src/app/keymaps/atom.coffee @nathansobo
+/src/app/keymaps/select-list.coffee @nathansobo
+/src/app/pane-grid.coffee @kevinsawicki
+/src/app/repository-status-task.coffee @gjtorikian
+/src/app/sortable-list.coffee @kevinsawicki
+/src/app/status-bar.coffee @kevinsawicki @nathansobo
+/src/app/text-mate-bundle.coffee @probablycorey
+/src/app/text-mate-scope-selector-matchers.coffee @gjtorikian @kevinsawicki
+/src/app/text-mate-scope-selector-pattern.pegjs @kevinsawicki
+/src/app/text-mate-scope-selector.coffee @gjtorikian @kevinsawicki
+/src/app/text-mate-theme.coffee @gjtorikian @kevinsawicki @nathansobo
+/src/application-delegate.js @50Wliu @Benjamin-Dobell @bullibasti @Daniel199604 @daviwil @jasonrudolph @maxbrunsfeld @rafeca @sadick254 @smashwilson @UziTech
+/src/atom-environment.js @sadick254
+/src/atom-package.coffee @benogle @gjtorikian @kevinsawicki @mcolyer @nathansobo
+/src/atom-paths.js @as-cii @damieng @rafeca
+/src/auto-update-manager.js @as-cii @rafeca @thedaniel
+/src/babel.js @aminya
+/src/binding-set.coffee @gjtorikian @kevinsawicki @mcolyer @nathansobo
+/src/buffer-change-operation.coffee @gjtorikian @kevinsawicki @nathansobo
+/src/buffered-node-process.js @as-cii @mnquintana @rafeca
+/src/buffered-process.js @as-cii @Connormiha @damieng @Ingramz @mnquintana @rafeca @YurySolovyov
+/src/clipboard.js @50Wliu
+/src/coffee-script.js @aminya
+/src/color.js @50Wliu @arnavb @as-cii @darangi @maxbrunsfeld @rafeca
+/src/command-installer.js @50Wliu @daviwil @maxbrunsfeld @rafeca
+/src/command-registry.js @aminya @nathansobo @rafeca @UziTech @wbinnssmith
+/src/compile-cache.js @aminya
+/src/config-file.js @icecream17
+/src/config-observer.coffee @kevinsawicki
+/src/config-schema.js @Alex3937 @anatoli26 @as-cii @benogle @BinaryMuse @brumm @damieng @daviwil @DouweM @Down10 @FalkF @Fank @iolsen @izuzak @jasonrudolph @jlord @jonathanrdelgado @kevinsawicki @kuychaco @lee-dohm @maxbrunsfeld @mnquintana @nathansobo @portal-chan @queerviolet @rafeca @remexre @sadick254 @scv119 @simurai @smashwilson @StackNeverFlow @tcd2014 @TheDrawingCoder-Gamer @UziTech @warrenpnz @wbinnssmith @zertosh @Zirro
+/src/config.js @Arcanemagus @Connormiha @daviwil @JosephTLyons @matthewwithanm @maxbrunsfeld @philipfweiss @rafeca @wbinnssmith @zypA13510
+/src/context-menu-manager.coffee @juggernautjp
+/src/core-uri-handlers.js @BinaryMuse @jasonrudolph @rafeca @smashwilson
+/src/crash-reporter-start.js @aminya @as-cii @atom-build @damieng @lkashef @nathansobo @rafeca @thomasjo
+/src/cursor.js @Ben3eeE @matthewwithanm @maxbrunsfeld @nathansobo @rafeca @rosston @smashwilson
+/src/decoration-manager.js @rafeca @thomasjo
+/src/decoration.js @captbaritone @Connormiha @leroix @rafeca @smashwilson
+/src/default-directory-provider.coffee @abishekvashok @bolinfest @damieng @hron @jsoref @mnquintana @mostafaeweda @PaulAik
+/src/default-directory-searcher.js @as-cii @nathansobo @rafeca
+/src/delegated-listener.js @aminya
+/src/deprecated-syntax-selectors.js @as-cii @rafeca
+/src/deserializer-manager.js @as-cii @maxbrunsfeld @rafeca
+/src/directory.coffee @gjtorikian @jonrohan @kevinsawicki @mcolyer @nathansobo @zcbenz
+/src/display-buffer-marker.coffee @benogle @gjtorikian @kevinsawicki @mcolyer @nathansobo
+/src/dock.js @50Wliu @as-cii @daviwil @jasonrudolph @jsoref @matthewwithanm @maxbrunsfeld @nathansobo @rafeca @simurai
+/src/edit-session.coffee @benogle @defunkt @gjtorikian @kevinsawicki @mcolyer @mutle @nathansobo @probablycorey
+/src/electron-shims.js @rafeca @thomasjo
+/src/extensions/autocomplete/autocomplete.coffee @nathansobo
+/src/extensions/command-panel/command-panel.coffee @nathansobo
+/src/extensions/event-palette/ @nathansobo
+/src/extensions/fuzzy-finder/ @nathansobo
+/src/extensions/markdown-preview/markdown-preview.coffee @nathansobo
+/src/extensions/outline-view/ @kevinsawicki
+/src/extensions/snippets/snippets.coffee @nathansobo
+/src/extensions/tree-view/tree-view.coffee @nathansobo
+/src/file-system-blob-store.js @as-cii @daviwil @jasonrudolph @rafeca @smashwilson
+/src/file.coffee @benogle @gjtorikian @kevinsawicki @mcolyer @nathansobo @probablycorey @zcbenz
+/src/first-mate-helpers.js @rafeca @thomasjo
+/src/fs-utils.coffee @kevinsawicki @nathansobo @zcbenz
+/src/get-app-name.js @daviwil
+/src/get-release-channel.js @nathansobo
+/src/get-window-load-settings.js @as-cii @nathansobo @rafeca
+/src/git-repository-provider.js @icecream17
+/src/git-repository.js @maxbrunsfeld @rafeca
+/src/grammar-registry.js @icecream17
+/src/gutter-container.js @daviwil @jasonrudolph @maxbrunsfeld @rafeca @smashwilson
+/src/gutter.js @daviwil @jasonrudolph @maxbrunsfeld @rafeca @smashwilson
+/src/history-manager.js @aminya
+/src/initialize-application-window.js @50Wliu @as-cii @BinaryMuse @Ingramz @joefitzgerald @joshaber @kuychaco @lee-dohm @maxbrunsfeld @nathansobo @rafeca @thomasjo
+/src/initialize-benchmark-window.js @aminya @as-cii @nathansobo @rafeca @thomasjo
+/src/initialize-test-window.js @UziTech
+/src/ipc-helpers.js @50Wliu @jasonrudolph @maxbrunsfeld @nathansobo @rafeca @smashwilson
+/src/item-registry.js @daviwil @maxbrunsfeld @rafeca
+/src/keymap-extensions.coffee @as-cii @benogle @iolsen @kevinsawicki @nathansobo @thomasjo
+/src/keymap.coffee @gjtorikian @kevinsawicki @mcolyer @nathansobo @probablycorey
+/src/keystroke-pattern.pegjs @kevinsawicki
+/src/layer-decoration.coffee @Ingramz @nathansobo @thomasjo
+/src/less-compile-cache.coffee @as-cii @kevinsawicki
+/src/main-process/application-menu.js @juggernautjp
+/src/main-process/atom-application.js @sadick254 @darangi
+/src/main-process/atom-protocol-handler.js @as-cii @daviwil @maxbrunsfeld @rafeca @smashwilson
+/src/main-process/atom-window.js @icecream17
+/src/main-process/auto-update-manager.js @Benjamin-Dobell @daviwil @maxbrunsfeld @rafeca @UziTech
+/src/main-process/auto-updater-win32.js @daviwil @maxbrunsfeld @rafeca @smashwilson
+/src/main-process/context-menu.js @asturur
+/src/main-process/file-recovery-service.js @50Wliu @as-cii @Benjamin-Dobell @byronigoe @maxbrunsfeld @rafeca @UziTech
+/src/main-process/main.js @claytonrcarter
+/src/main-process/parse-command-line.js @claytonrcarter
+/src/main-process/spawner.js @maxbrunsfeld @rafeca
+/src/main-process/squirrel-update.js @as-cii @daviwil @maxbrunsfeld @rafeca
+/src/main-process/start.js @claytonrcarter
+/src/main-process/win-powershell.js @maxbrunsfeld @rafeca
+/src/main-process/win-shell.js @as-cii @damieng @daviwil @rafeca
+/src/menu-helpers.js @juggernautjp
+/src/menu-manager.coffee @juggernautjp
+/src/menu-sort-helpers.js @captbaritone @maxbrunsfeld @rafeca
+/src/model.coffee @kevinsawicki @thomasjo
+/src/module-cache.js @aminya
+/src/module-utils.js @aminya @sadick254
+/src/native-compile-cache.js @as-cii @BinaryMuse @daviwil @jasonrudolph @mfonville @rafeca @sadick254 @smashwilson @thomasjo
+/src/native-watcher-registry.js @as-cii @jsoref @rafeca @smashwilson
+/src/notification-manager.js @50Wliu
+/src/notification.js @Connormiha @jasonrudolph @rafeca
+/src/null-grammar.coffee @gjtorikian @kevinsawicki @nathansobo
+/src/null-grammar.js @as-cii @maxbrunsfeld @rafeca
+/src/overlay-manager.coffee @benogle @mnquintana @nathansobo @thomasjo
+/src/package-manager.js @aminya
+/src/package-transpilation-registry.js @as-cii @BinaryMuse @damieng @rafeca
+/src/package.js @abe33
+/src/packages/autocomplete/src/ @probablycorey
+/src/packages/autocomplete/stylesheets/ @kevinsawicki
+/src/packages/bracket-matcher/ @kevinsawicki
+/src/packages/command-logger/ @kevinsawicki
+/src/packages/command-panel/ @probablycorey
+/src/packages/editor-stats/ @kevinsawicki
+/src/packages/event-palette/ @probablycorey
+/src/packages/event-palette/* @nathansobo
+/src/packages/fuzzy-finder/lib/ @gjtorikian @jbarnette @kevinsawicki @nathansobo
+/src/packages/fuzzy-finder/src/ @probablycorey
+/src/packages/gfm.tmbundle/ @kevinsawicki
+/src/packages/gfm.tmbundle/spec/ @nathansobo
+/src/packages/markdown-preview/src/ @probablycorey
+/src/packages/markdown-preview/stylesheets/ @kevinsawicki
+/src/packages/outline-view/ @probablycorey
+/src/packages/package-generator/ @kevinsawicki
+/src/packages/settings-view/ @probablycorey
+/src/packages/settings-view/stylesheets/ @kevinsawicki
+/src/packages/single-trailing-newline/ @probablycorey
+/src/packages/snippets/ @probablycorey
+/src/packages/spell-check/ @kevinsawicki
+/src/packages/symbols-view/ @nathansobo
+/src/packages/tabs/ @jonrohan @nathansobo @probablycorey
+/src/packages/tabs/lib/ @kevinsawicki
+/src/packages/tabs/src/ @cobyism
+/src/packages/toml.tmbundle/ @kevinsawicki
+/src/packages/toml.tmbundle/spec/ @nathansobo
+/src/packages/tree-view/src/ @probablycorey
+/src/packages/tree-view/stylesheets/ @kevinsawicki
+/src/packages/wrap-guide/ @kevinsawicki
+/src/pane-axis-element.js @sadick254
+/src/pane-axis-view.coffee @nathansobo
+/src/pane-axis.js @sadick254
+/src/pane-column.coffee @gjtorikian @kevinsawicki
+/src/pane-container-element.js @sadick254
+/src/pane-container.js @sadick254
+/src/pane-element.js @darangi
+/src/pane-resize-handle-element.js @sadick254
+/src/pane-row.coffee @gjtorikian @kevinsawicki
+/src/pane.js @sadick254
+/src/panel-container-element.js @sadick254
+/src/panel-container.js @sadick254
+/src/panel.js @matthewwithanm @maxbrunsfeld @rafeca @wbinnssmith
+/src/pasteboard.coffee @gjtorikian @kevinsawicki @nathansobo @zcbenz
+/src/path-watcher.js @bennyborn
+/src/project.js @dabao12321 @daviwil @hansonw @jasonrudolph @jneuendorf @matthewwithanm @maxbrunsfeld @philipfweiss @rafeca @sadick254 @smashwilson @UziTech @wbinnssmith
+/src/protocol-handler-installer.js @sadick254
+/src/register-default-commands.coffee @50Wliu @Alex3937 @as-cii @Ben3eeE @dav-ell @DouweM @Ingramz @jasonrudolph @joshaber @matthewwithanm @maxbrunsfeld @mnquintana @nathansobo @smashwilson
+/src/reopen-project-list-view.js @as-cii @damieng @rafeca
+/src/reopen-project-menu-manager.js @juggernautjp
+/src/ripgrep-directory-searcher.js @dwelle @nathansobo @NotMoni @rafeca
+/src/root-view.coffee @benogle @gjtorikian @kevinsawicki @mcolyer @nathansobo @probablycorey @wfarr
+/src/scan-handler.coffee @benogle @Connormiha @dirk-thomas @Ingramz @maxbrunsfeld @mnquintana
+/src/scope-descriptor.js @daviwil @jasonrudolph @maxbrunsfeld @rafeca @simurai @tcd2014
+/src/select-list.coffee @benogle @gjtorikian @kevinsawicki @mcolyer @nathansobo @probablycorey
+/src/selection.js @6paklata @Aerijo @as-cii @jasonrudolph @lee-dohm @maxbrunsfeld @oggy @rafeca @smashwilson
+/src/selections-component.coffee @nathansobo
+/src/selectors.js @queerviolet @rafeca
+/src/site-shim.coffee @nathansobo
+/src/special-token-symbols.coffee @nathansobo
+/src/startup-time.js @nathansobo @rafeca
+/src/state-store.js @sadick254 @icecream17
+/src/stdlib/cson.coffee @kevinsawicki @nathansobo
+/src/stdlib/task-shell.coffee @kevinsawicki @nathansobo @zcbenz
+/src/storage-folder.js @maxbrunsfeld @rafeca
+/src/style-manager.js @sadick254
+/src/styles-element.js @sadick254
+/src/syntax-scope-map.js @Alex3937 @Ben3eeE @maxbrunsfeld @nathansobo @rafeca
+/src/task-bootstrap.js @rafeca @thomasjo
+/src/task.coffee @as-cii @benogle @bolinfest @daviwil @jasonrudolph @kevinsawicki @lee-dohm @maxbrunsfeld @mcolyer @mfonville @nathansobo @rafeca @sadick254 @smashwilson @thomasjo @zcbenz
+/src/test.ejs @maxbrunsfeld
+/src/text-buffer.coffee @benogle @gjtorikian @kevinsawicki @mcolyer @mutle @nathansobo @probablycorey
+/src/text-editor-component.js @sadick254
+/src/text-editor-element.js @sadick254
+/src/text-editor-registry.js @aminya
+/src/text-editor.js @sadick254
+/src/text-mate-grammar.coffee @gjtorikian @kevinsawicki @nathansobo @probablycorey
+/src/text-mate-language-mode.js @aminya
+/src/text-mate-package.coffee @gjtorikian @kevinsawicki @nathansobo
+/src/text-utils.js @ariasuni @daviwil @jasonrudolph @maxbrunsfeld @rafeca
+/src/theme-manager.js @Connormiha @GilTeixeira @jasonrudolph @rafeca
+/src/theme-package.js @jasonrudolph @rafeca
+/src/title-bar-element.coffee @brumm
+/src/title-bar.js @as-cii @rafeca
+/src/token-iterator.js @jasonrudolph @maxbrunsfeld @rafeca
+/src/token.coffee @as-cii @benogle @gjtorikian @Ingramz @kevinsawicki @mcolyer @mnquintana @nathansobo @probablycorey @wfarr
+/src/tokenized-line.coffee @adzenith @as-cii @benogle @driskell @gjtorikian @Ingramz @kevinsawicki @mnquintana @nathansobo @probablycorey @thomasjo
+/src/tooltip-manager.js @50Wliu @annthurium @cacheflow @daviwil @jasonrudolph @rafeca @thomasjo
+/src/tooltip.js @aminya
+/src/tree-indenter.js @sadick254 @eltociear
+/src/tree-sitter-grammar.js @Aerijo @Alex3937 @maxbrunsfeld @queerviolet @rafeca @sharedprophet
+/src/tree-sitter-language-mode.js @sadick254 @chfritz
+/src/typescript.js @aminya
+/src/update-process-env.js @brettle
+/src/uri-handler-registry.js @BinaryMuse @nathansobo @NotMoni @rafeca @UziTech
+/src/view-registry.js @aminya
+/src/window-event-handler.js @darangi
+/src/window.js @maxbrunsfeld @rafeca
+/src/workspace-center.js @50Wliu @jasonrudolph @matthewwithanm @maxbrunsfeld @rafeca
+/src/workspace-element.js @sadick254
+/src/workspace.js @sadick254
+/static/atom-ui/ @simurai
+/static/atom.css @jonrohan @kevinsawicki @nathansobo
+/static/atom.less @benogle @brumm @matthewwithanm @maxbrunsfeld @nathansobo @probablycorey @simurai @thomasjo
+/static/babelrc.json @as-cii @maxbrunsfeld
+/static/command-logger.css @kevinsawicki
+/static/command-panel.css @kevinsawicki
+/static/core-ui/_index.less @simurai
+/static/core-ui/cursors.less @Arcanemagus @as-cii @simurai @thomasjo @wbinnssmith
+/static/core-ui/docks.less @Arcanemagus @as-cii @matthewwithanm @maxbrunsfeld @simurai @wbinnssmith
+/static/core-ui/panels.less @benogle @matthewwithanm @simurai
+/static/core-ui/panes.less @Aerijo @alissonpelizaro @as-cii @benogle @frantic1048 @liuxiong332 @mnquintana @nathansobo @rmartin @simurai @thomasjo
+/static/core-ui/syntax.less @benogle @nathansobo @simurai
+/static/core-ui/text-editor.less @abe33 @aminya @as-cii @benogle @daviwil @jasonrudolph @maxbrunsfeld @nathansobo @queerviolet @sadick254 @simurai @thomasjo @wbinnssmith @wvanlint
+/static/core-ui/title-bar.less @brumm @nathansobo @simurai
+/static/core-ui/utils.less @DeeDeeG
+/static/core-ui/workspace-view.less @aminya @mnquintana @nathansobo @sadick254 @simurai
+/static/editor.css @jonrohan @kevinsawicki @nathansobo @probablycorey
+/static/fontello-mixins.less @nathansobo
+/static/fontello.woff @nathansobo
+/static/fuzzy-finder.css @kevinsawicki @nathansobo
+/static/icons/ @simurai
+/static/icons/atomicons.woff @damieng
+/static/icons/octicons.less @benogle @damieng
+/static/image-view.less @nathansobo
+/static/images/spinner.svg @kevinsawicki
+/static/index.html @50Wliu @ggreer @iolsen @jasonrudolph @kevinsawicki @lgeiger @nathansobo @thomasjo @zcbenz
+/static/index.js @sadick254
+/static/jasmine.css @kevinsawicki
+/static/jasmine.less @50Wliu @benogle @nathansobo @simurai
+/static/linux.less @simurai
+/static/markdown.css @kevinsawicki
+/static/mega-octicon-utf-codes.less @nathansobo
+/static/mini-octicon-utf-codes.less @nathansobo
+/static/normalize.less @simurai
+/static/notification.css @kevinsawicki
+/static/octicons-regular-webfont.woff @kevinsawicki
+/static/overlay.css @kevinsawicki
+/static/popover-list.css @kevinsawicki
+/static/reset.css @kevinsawicki
+/static/root-view.less @benogle @nathansobo @probablycorey
+/static/scaffolding.less @damieng @simurai
+/static/select-list.css @kevinsawicki @nathansobo
+/static/status-bar.css @jonrohan @kevinsawicki
+/static/tabs.css @kevinsawicki
+/static/tree-view.css @jonrohan @kevinsawicki
+/static/variables/ @benogle
+/static/variables/octicon-mixins.less @as-cii @damieng @nathansobo @simurai
+/static/variables/octicon-utf-codes.less @damieng @simurai
+/static/variables/ui-variables.less @brumm @mnquintana @nathansobo @p-e-w @simurai @williambout
+/stylelint.config.js @Arcanemagus @rafeca @simurai @wbinnssmith
+/SUPPORT.md @sadick254
+/tasks/ @kevinsawicki
+/tasks/build-task.coffee @mcolyer
+/tasks/docs-task.coffee @gjtorikian @mcolyer
+/tasks/update-atom-shell-task.coffee @zcbenz
+/themes/* @kevinsawicki @zcbenz
+/themes/atom-dark-syntax.css @gjtorikian
+/themes/atom-dark-ui/atom.css @kevinsawicki
+/themes/atom-dark-ui/blurred.css @kevinsawicki
+/themes/atom-dark-ui/collaboration.less @nathansobo
+/themes/atom-dark-ui/command-logger.css @kevinsawicki
+/themes/atom-dark-ui/command-panel.css @kevinsawicki
+/themes/atom-dark-ui/editor.css @kevinsawicki
+/themes/atom-dark-ui/select-list.css @kevinsawicki
+/themes/atom-dark-ui/status-bar.css @kevinsawicki
+/themes/atom-dark-ui/tabs.css @kevinsawicki
+/themes/atom-dark-ui/tree-view.css @kevinsawicki
+/themes/atom-light-ui/atom.css @kevinsawicki
+/themes/atom-light-ui/blurred.css @kevinsawicki
+/themes/atom-light-ui/collaboration.less @nathansobo
+/themes/atom-light-ui/command-logger.css @kevinsawicki
+/themes/atom-light-ui/command-panel.css @kevinsawicki
+/themes/atom-light-ui/editor.css @kevinsawicki
+/themes/atom-light-ui/overlay.css @kevinsawicki
+/themes/atom-light-ui/select-list.css @kevinsawicki
+/themes/atom-light-ui/status-bar.css @kevinsawicki
+/themes/atom-light-ui/tabs.css @kevinsawicki
+/themes/atom-light-ui/tree-view.css @kevinsawicki
+/tools/* @kevinsawicki
+/vendor/apm @kevinsawicki @mcolyer @nathansobo @zcbenz
+/vendor/jasmine-jquery.js @kevinsawicki @nathansobo
+/vendor/jasmine.js @Zachinquarantine
+/vendor/space-pen.coffee @kevinsawicki @probablycorey
+/vendor/telepath @kevinsawicki @nathansobo
+/vendor/themes/ @kevinsawicki
